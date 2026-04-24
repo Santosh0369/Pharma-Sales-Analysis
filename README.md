@@ -113,16 +113,6 @@ Three report pages were built:
 
 ---
 
-## 7. Next Steps
-
-- [ ] Add a **Date Dimension** with full calendar hierarchy (Week, Quarter, Fiscal Year) for richer time intelligence
-- [ ] Incorporate **budget/target data** to build variance-to-plan visuals
-- [ ] Publish the Power BI report to **Power BI Service** and schedule automatic data refreshes
-- [ ] Build a **Python EDA notebook** (Pandas + Matplotlib) for exploratory analysis before the SQL import step
-- [ ] Extend the model to include **return/chargeback data** for net revenue reporting
-
----
-
 ## 📁 Repository Structure
 
 ```
