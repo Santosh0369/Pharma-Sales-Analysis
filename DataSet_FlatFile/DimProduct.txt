@@ -1,0 +1,241 @@
+Product_ID,ProductClass,ProductName
+1,Analgesics,Amlominphen Dexanovate
+2,Antimalarial,Magneprex
+3,Antibiotics,Adtiza Gammaluble
+4,Antiseptics,Lovepion
+5,Mood Stabilizers,Alarudin Azarolac
+6,Antibiotics,Apronazol
+7,Analgesics,Pulmodiol Adalaxime
+8,Antibiotics,Tesnorphine Silotamine
+9,Antipiretics,Secrelazine Insonamic
+10,Antipiretics,Ibrulinum
+11,Antiseptics,Diprolimus
+12,Analgesics,Diazemid Felcept
+13,Analgesics,Aldevac
+14,Antiseptics,Novakyn Tracprox
+15,Mood Stabilizers,Cephovelam
+16,Antiseptics,Duraprazole Agalsixolol
+17,Antibiotics,Relenstrel Exurabine
+18,Mood Stabilizers,Factofribrate
+19,Antiseptics,Interfedox Pilobamol
+20,Analgesics,Paronium Atracustone
+21,Mood Stabilizers,Liomulin
+22,Antiseptics,Ciclonazol
+23,Antimalarial,Abobozolid
+24,Antibiotics,Thalilamide
+25,Antiseptics,Menogine
+26,Antiseptics,Benzoprox
+27,Analgesics,Penitrana
+28,Antimalarial,Clinicilin Pentozone
+29,Mood Stabilizers,Antaparin Varizyme
+30,Antimalarial,Microroban Afatigomar
+31,Mood Stabilizers,Palodizem
+32,Antipiretics,Decidenu Galantrigine
+33,Antibiotics,Algluconium Dorzofoxin
+34,Antiseptics,Albudazole Erobloc
+35,Analgesics,Betanem
+36,Antiseptics,Abtasol
+37,Analgesics,Dasagestin
+38,Antibiotics,Vibratosine Alemtrace
+39,Antimalarial,Dorzovorin Pentadarone
+40,Analgesics,Lioletine Refliruvax
+41,Antipiretics,Symdocet
+42,Antibiotics,Choriotrisin
+43,Antiseptics,Factolamide
+44,Mood Stabilizers,Pazofenac
+45,Antipiretics,Travosoline Capolac
+46,Analgesics,Lovephilus
+47,Analgesics,Sumanazole
+48,Antipiretics,Tiaracil
+49,Antiseptics,Biotasol Siloderm
+50,Antipiretics,Bexridol
+51,Antiseptics,Ultrimax Ultriset
+52,Mood Stabilizers,Exexone
+53,Antipiretics,Ceftatana Serolamide
+54,Antiseptics,Proderal
+55,Antipiretics,Sevoderm
+56,Antipiretics,Abilovir Aprotasol
+57,Antiseptics,Aggrakine
+58,Antibiotics,Fentatrol Rapatelase
+59,Antibiotics,Claricriptine Adaferol
+60,Mood Stabilizers,Raparidol
+61,Antiseptics,Adriafinil Ehtymara
+62,Antipiretics,Tacrodomide
+63,Antibiotics,Ranediol
+64,Antiseptics,Zithrotrol
+65,Mood Stabilizers,Acycpex
+66,Antimalarial,Amamadin
+67,Antiseptics,Alisteride Pemidizem
+68,Analgesics,Acelimus
+69,Antiseptics,Choriogestrel
+70,Antiseptics,Panpion
+71,Mood Stabilizers,Xenaderal
+72,Analgesics,Ionclotide
+73,Mood Stabilizers,Spiroderall
+74,Antibiotics,Primapion
+75,Analgesics,Alpradipine
+76,Antimalarial,Stelazolid
+77,Antimalarial,Pitodomide
+78,Antimalarial,Cyclovital
+79,Antiseptics,Enzastryl
+80,Mood Stabilizers,Testant
+81,Antimalarial,Sanctumine
+82,Antibiotics,Araxetine
+83,Antipiretics,Argalazine Abostryl
+84,Antiseptics,Atrabicin Alkerotec
+85,Mood Stabilizers,Invisteride Diclomycin
+86,Mood Stabilizers,Lacoplex Hyaluvance
+87,Antiseptics,Diprotaine
+88,Antipiretics,Tracdomide
+89,Antipiretics,Ketamara Evogel
+90,Analgesics,Ampysin
+91,Antipiretics,Metapatch
+92,Antipiretics,Theopril
+93,Antimalarial,Cogxone Levanide
+94,Analgesics,Zyvance
+95,Mood Stabilizers,Dexmeprazole Transnuvia
+96,Antimalarial,Finanel
+97,Antiseptics,Docstryl Rivacin
+98,Antimalarial,Zynosine
+99,Analgesics,Dexacilin Triline
+100,Mood Stabilizers,Primatate Univatol
+101,Antiseptics,Apromin
+102,Mood Stabilizers,Trazozaprine
+103,Antimalarial,Arivac
+104,Antibiotics,Symbiroban
+105,Mood Stabilizers,Symbisine Prednimadin
+106,Antimalarial,Temasone Thiobucil
+107,Analgesics,Clindaracil
+108,Antimalarial,Requimadin
+109,Analgesics,Epzipitant
+110,Antimalarial,Sodinel Olofribrate
+111,Mood Stabilizers,Adriacaine
+112,Antipiretics,Alpharolac
+113,Antibiotics,Acantaine
+114,Mood Stabilizers,Morphizolid Tianalin
+115,Mood Stabilizers,Trazobalamin
+116,Analgesics,Ketastadil
+117,Analgesics,Alemtuvatol Megalinum
+118,Antiseptics,Adalatamine
+119,Mood Stabilizers,Veratorol Ciclovatol
+120,Antibiotics,Hydroxyprosyn
+121,Antimalarial,Tetratanyl
+122,Antipiretics,Allomenda
+123,Antimalarial,Propratecan
+124,Antipiretics,Lactubucil
+125,Antimalarial,Interzide
+126,Antiseptics,Ganineva Agenium
+127,Antibiotics,Claripenem
+128,Analgesics,Neuropogen Empibax
+129,Mood Stabilizers,Feruprazole
+130,Antibiotics,Saprodeine Zanprosyn
+131,Antimalarial,Aggretisol
+132,Mood Stabilizers,Ergomethate
+133,Mood Stabilizers,Topitaine
+134,Antipiretics,Kinenadryl
+135,Antipiretics,Fentalac
+136,Mood Stabilizers,Presetron
+137,Antibiotics,Antilamin Clinbital
+138,Antiseptics,Pulmogen Alitora
+139,Antipiretics,Immurenol Temarate
+140,Analgesics,Kinovatol
+141,Antiseptics,Kinerinex
+142,Antiseptics,Ibruferon
+143,Antimalarial,Halcifergen Nevazone
+144,Antipiretics,Amavirase
+145,Mood Stabilizers,Topipizole
+146,Analgesics,Afaxacin
+147,Antiseptics,Lansostral Acgestin
+148,Antiseptics,Androporin
+149,Antipiretics,Lansopril Acribax
+150,Antibiotics,Nevanide Actozide
+151,Antibiotics,Imiformin Transmunex
+152,Mood Stabilizers,Hepavice
+153,Analgesics,Alglutriptan
+154,Antimalarial,Halciramine
+155,Mood Stabilizers,Angioparin Brimosumab
+156,Antipiretics,Imiderm Vibranovate
+157,Mood Stabilizers,Hemavate Spirolinum
+158,Antipiretics,Darlofen
+159,Antimalarial,Xenaminphen
+160,Mood Stabilizers,Agalsiline
+161,Antiseptics,Insozyme
+162,Analgesics,Dantolac Pazocor
+163,Antiseptics,Travoloride
+164,Mood Stabilizers,Lovavatol Azelavarix
+165,Mood Stabilizers,Clinolan Pitoletra
+166,Antiseptics,Quiniprosyn
+167,Antibiotics,Tetalamide
+168,Antiseptics,Sucprine Specbalamin
+169,Antimalarial,Albuterenone
+170,Mood Stabilizers,Solasteride
+171,Antiseptics,Malaxolol Aeroprosyn
+172,Antibiotics,Nisorase
+173,Mood Stabilizers,Propralamide Dexlanzolam
+174,Analgesics,Formolovir Amanferon
+175,Antimalarial,Aclonuma
+176,Analgesics,Alimmethate Insudase
+177,Antimalarial,Effigine Propraprex
+178,Antimalarial,Afluferon Entrarenone
+179,Antibiotics,Brimorix Amonine
+180,Antipiretics,Cortirodine Alimcline
+181,Antipiretics,Aprerase
+182,Mood Stabilizers,Afretosine
+183,Analgesics,Symbitrim
+184,Antibiotics,Pentastrin
+185,Antipiretics,Acubulin
+186,Antipiretics,Fosinofen
+187,Antiseptics,Quixitriptan Alanesin
+188,Antiseptics,Interfeferon Aspipex
+189,Antibiotics,Eproline
+190,Analgesics,Aquamycin Lacoran
+191,Antiseptics,Magnemunex
+192,Antimalarial,Megenorphine
+193,Analgesics,Sevotrana Tiafoxin
+194,Antimalarial,Adrecetam Barazoxane
+195,Analgesics,Zonixamine Immulinum
+196,Antipiretics,Afinitasol
+197,Antiseptics,Amphesirox
+198,Antibiotics,Abatatriptan
+199,Antiseptics,Abranatal Lysoprosate
+200,Antipiretics,Cordamectin Actolamin
+201,Antibiotics,Asparathasone Unipan
+202,Analgesics,Victomax
+203,Mood Stabilizers,Exotropin Empizine
+204,Analgesics,Kiovax Tercorolac
+205,Antimalarial,Doxivorin
+206,Mood Stabilizers,Rebedase Aplencor
+207,Analgesics,Thionide
+208,Mood Stabilizers,Lovapur
+209,Mood Stabilizers,Malavirine Alimdine
+210,Antipiretics,Zarostral
+211,Analgesics,Proprabax
+212,Antiseptics,Zonitonin
+213,Analgesics,Dexmebital Acanplan
+214,Analgesics,Flutacerol
+215,Mood Stabilizers,Rositroban
+216,Mood Stabilizers,Acycnafine Microvate
+217,Mood Stabilizers,Adideine
+218,Antibiotics,Aspinavir Silovance
+219,Analgesics,Amcibax Amcikeran
+220,Antibiotics,Comzyme
+221,Antibiotics,Methiclotide
+222,Analgesics,Topifribrate
+223,Antiseptics,Cricane Acamsumab
+224,Antibiotics,Cephozumab Synmethate
+225,Antibiotics,Pulmofine
+226,Analgesics,Atomorelin
+227,Antimalarial,Syntheruvax Proracin
+228,Analgesics,Oxymotroban Fexoformin
+229,Antimalarial,Victomine
+230,Antibiotics,Belavarix Benzabicin
+231,Antipiretics,Aciprex
+232,Antiseptics,Diaxolol
+233,Antiseptics,Ribabyclor
+234,Antimalarial,Relenvice
+235,Antibiotics,Interfestar
+236,Antipiretics,Robapril
+237,Antiseptics,Effidomide Evofribrate
+238,Antiseptics,Ceretosine
+239,Antimalarial,Ampinonide
+240,Antiseptics,Dantocept Ferurenone

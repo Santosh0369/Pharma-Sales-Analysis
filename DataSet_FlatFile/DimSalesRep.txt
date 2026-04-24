@@ -1,0 +1,14 @@
+SalesRep_ID,SalesRep,SalesTeam_ID
+1,Abigail Thompson,1
+2,Anne Wu,3
+3,Stella Given,2
+4,Daniel Gates,2
+5,Morris Garcia,1
+6,Mary Gerrard,3
+7,Alan Ray,4
+8,Erica Jones,4
+9,Jessica Smith,3
+10,Steve Pepple,1
+11,Thompson Crawford,4
+12,Sheila Stones,3
+13,Jimmy Grey,2

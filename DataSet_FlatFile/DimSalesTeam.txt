@@ -1,0 +1,5 @@
+SalesTeam_ID,Manager,SalesTeam
+1,Tracy Banks,Bravo
+2,Alisha Cordwell,Charlie
+3,Britanny Bold,Delta
+4,James Goodwill,Alfa
