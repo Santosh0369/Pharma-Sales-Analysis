@@ -9,7 +9,7 @@
 
 ## 2. Executive Summary
 
-This project transforms 254,000+ raw pharmaceutical sales transactions spanning two European markets (Germany & Poland) into an interactive Power BI dashboard. Using SQL Server, a normalized star schema was engineered from a flat CSV file, enabling fast slicing across products, territories, channels, and sales teams. The final report surfaces **~$11.8B in total sales** across four years, providing leadership with actionable insights on top products, customer behavior, and rep performance.
+This project transforms 254,000+ raw pharmaceutical sales transactions spanning two European markets (Germany & Poland) into an interactive Power BI dashboard. Using SQL Server, a normalized star schema was engineered from a flat CSV file, enabling fast slicing across products, territories, channels, and sales teams. The final report surfaces **~$11.8B in total sales** across four years, providing leadership with actionable insights on top products, customer behaviour, and rep performance.
 
 ---
 
@@ -53,6 +53,9 @@ Each dimension was populated using `SELECT DISTINCT` from the raw table, and the
 ### Step 2 — Data Modeling (Power BI)
 
 The star schema was connected in Power BI Desktop with one-to-many relationships from each dimension to the fact table. This enabled efficient DAX calculations and clean slicer interactions.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7570e152-7715-4c1f-b7a2-b208f6b2e82b" />
+
+---
 
 ### Step 3 — DAX Measures
 
@@ -77,8 +80,20 @@ DIVIDE(
 Three report pages were built:
 
 1. **Sales Overview** — KPIs, trend lines, channel breakdown, top distributors
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/40015e9b-8db2-4365-ae53-01f602d16288" />
+
+---
+
 2. **Product Details** — Top 10 products by revenue (Top N filter), monthly product matrix
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6c6168e3-d81a-498b-8180-af7b434bfad3" />
+
+---
+
 3. **Customer Details** — Customer ranking, city map with lat/long, rep-level drill-through
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0847bf8e-22da-46ec-a559-ba979641d353" />
 
 ---
 
